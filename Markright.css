@@ -1,0 +1,16 @@
+body {font-family: Helvetica Neue, Arial, sans-serif;}
+article {margin: 64px auto; max-width: 800px;}
+article>section>h1 {font-size: 48px;}
+article>section {margin: 72px 0;}
+section>section>h1 {font-size: 32px;}
+section>section {margin: 48px 0;}
+section>section>section>h1 {font-size: 20px;}
+section>section>section {margin: 30px 0;}
+section>section>section>section>h1 {font-size: 12px; text-transform: uppercase; letter-spacing: 0.0625em;}
+section>section>section>section {margin: 20px 0;}
+p, h1 {margin: 16px 0;}
+p {font-size: 16px;}
+body>a {font-weight: bold; font-size: 16px; color: #0AF; text-decoration: none;}
+.indentLines {padding-left: 8px; border-left: solid 2px #DDD;}
+.activeIndentLines {padding-left: 8px; border-left: solid 2px #0AF;}
+p:focus, h1:focus {outline: none;}
