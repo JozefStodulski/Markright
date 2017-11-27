@@ -11,7 +11,6 @@ HTML word processo
 - A semantic document a machine can read
 
 ## TODO
-- ~~Refactor~~ Factor
 - Save & Open
 - Bullet points
 - Arrow key navigation
