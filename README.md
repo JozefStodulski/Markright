@@ -2,7 +2,7 @@
 HTML word processo
 
 ### Rich
-- All the capabillity of the web platformr with hierarchy-management and automatic styling
+- All the capabillity of the web platform with easy control of semantic hierarchy and automatic styling
 ### Portable
 - Read and write with any Browser, OS, or hardware
 ### Legible
