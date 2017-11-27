@@ -2,7 +2,7 @@
 HTML word processor with hierarchy-management and automatic styling
 
 
-# TODO
+## TODO
 - Bullet points
 
 - Save & Open
