@@ -11,18 +11,12 @@ HTML word processo
 - A semantic document a machine can read
 
 ## TODO
-- Bullet points
-
+- ~~Refactor~~ Factor
 - Save & Open
-
+- Bullet points
 - Tabels
-
 - Arrow key navigation
-
 - Draggable Elements
-
 - Insert Images
-
 - Custom Styling
-
 - Collapsable Elements
