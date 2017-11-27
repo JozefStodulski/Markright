@@ -14,9 +14,9 @@ HTML word processo
 - ~~Refactor~~ Factor
 - Save & Open
 - Bullet points
-- Tabels
 - Arrow key navigation
-- Draggable Elements
-- Insert Images
 - Custom Styling
+- Insert Images
+- Draggable Elements
+- Tabels
 - Collapsable Elements
