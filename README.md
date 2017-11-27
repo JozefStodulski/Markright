@@ -10,6 +10,11 @@ HTML word processo
 ### Accessable
 - A semantic document a machine can read
 
+## Current controls
+- Toggle Edit Mode: Escape key
+- Make (focused) subsection: Tab key
+- Promote (focused) section: Backspace from start of section
+
 ## TODO
 - Save & Open
 - Bullet points
