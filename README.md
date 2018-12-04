@@ -1,8 +1,6 @@
 # Markright
-HTML word processo
+HTML word processor
 
-### Rich
-- All the capabillity of the web platform with easy control of semantic hierarchy and automatic styling
 ### Portable
 - Read and write with any Browser, OS, or hardware
 ### Legible
@@ -10,10 +8,10 @@ HTML word processo
 ### Accessable
 - A semantic document a machine can read
 
-## Current controls
-- Toggle Edit Mode: Escape key
-- Make (focused) subsection: Tab key
-- Promote (focused) section: Backspace from start of section
+## Keyboard controls
+- Toggle Edit Mode: Escape
+- Make (focused section) subsection: Tab
+- Promote focused section: Backspace from start of line
 
 ## TODO
 - Save & Open
